@@ -11,6 +11,6 @@ Follow these steps to install the required dependencies:
 
 1. Create and activate your conda/virtual environment.
 
-2. Run pip install -r requirements.txt.
+2. Run `pip install -r requirements.txt`.
 
-3. Run bash bert_mrc_grape_all_C.sh.
+3. Run `bash bert_mrc_grape_all_C.sh`.
