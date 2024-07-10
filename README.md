@@ -1,6 +1,3 @@
-The code is being organized, and we will upload it as soon as possible.
-
-
 # Demonstration-based Learning for Few-shot Biomedical Named Entity Recognition under Machine Reading Comprehension
 
 ## Study Description
